@@ -1,4 +1,4 @@
-# Project One Storyboard | Text-Based Adventure Game
+The pl# Project One Storyboard | Text-Based Adventure Game
 
 > Complete the `TODO:` prompts using your own game idea. This file is a graded
 > Project One deliverable and later becomes a reference for Project Two.
@@ -7,59 +7,55 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Cybersecurity Escape Adventure
 
-**Storyline:**
+Storyline:
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The game takes place inside a copany that has been attacked by a hacker.  The player is a cybersecurity analyst who must move through different  areas of the company
+and collect six security
+items needed to protect the network. The player must collect six items before entering the Hacker's Den. If the player enters the Hacker's Den before collecting all the items, the hacker wins. If all six items are collected first, the player saves the company network.
 
-## Rooms
+Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
-
-Add more rooms if your design needs them.
+1. Security Office
+2. Help Desk
+3. Network Lab
+4. Server Room
+5. Data Center
+6. Admin Office
+7. Storage Room
+8. Hacker's Den
 
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
-
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+1. Access Badge
+2. Network Map
+3. Firewall Key
+4. Backup Drive
+5. Admin Password
+6. Encryption Key
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Hacker is the cybercriminal responsible for attacking the company network. The player must avoid the Hacker's Den until all six security items have been collected.
 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
+* [X] I included eight (8) rooms.
+* [X] I included six (6) collectable items.
+* [X] The start room has no item.
+* [X] The villian room has not item.
+* [X] Every room except the start room and villain room contains one item.
+* [X] Room, item, and villain names match my map.
+* [X] The map allows the player to collect all required items before the
+  villain is ountered.
 
 ## Project Two Handoff
 
